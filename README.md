@@ -1,2 +1,0 @@
-# Guichetier.py
-Guichetier
